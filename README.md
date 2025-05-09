@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://github.com/ObedTech515/HUNTER-XMD1?tab=followers">
-    <img src="https://img.shields.io/github/followers/ObedTech515?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/ObedTech12/Hunter-Xmd?tab=followers">
+    <img src="https://img.shields.io/github/followers/ObedTech12?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/ObedTech515/HUNTER-XMD1/stargazers">
-    <img src="https://img.shields.io/github/stars/ObedTech515/HUNTER-XMD1?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/ObedTech12/Hunter-Xmd/stargazers">
+    <img src="https://img.shields.io/github/stars/ObedTech12/Hunter-Xmd?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/ObedTech515/HUNTER-XMD1/fork">
-    <img src="https://img.shields.io/github/forks/ObedTech515/HUNTER-XMD1?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/ObedTech12/Hunter-Xmd/fork">
+    <img src="https://img.shields.io/github/forks/ObedTec12/Hunter-Xmd?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
   </a>
-  <a href="https://github.com/ObedTech515/HUNTER-XMD1/watchers">
-    <img src="https://img.shields.io/github/watchers/ObedTech515/HUNTER-XMD1?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
+  <a href="https://github.com/ObedTech12/Hunter-Xmd/watchers">
+    <img src="https://img.shields.io/github/watchers/ObedTech12/Hunter-Xmd?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
   </a>
     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=HUNTER-XMD-V5.0" alt="Typing SVG" /></a>
@@ -23,8 +23,8 @@
 ### <h4 align="">1️⃣. GITHUB ACCOUNT</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-<a href='https://github.com/ObedTech515' target="_blank">
-  <img alt='ObedTech515 ACCOUNT' src='https://img.shields.io/badge/follow%20%20account-orange?style=for-the-badge&logo=account&logoColor=black'/>
+<a href='https://github.com/ObedTech12' target="_blank">
+  <img alt='ObedTech12 ACCOUNT' src='https://img.shields.io/badge/follow%20%20account-orange?style=for-the-badge&logo=account&logoColor=black'/>
 </a>
 
 ### <h4 align="">2️⃣. BMB WEBSITE</h4>
@@ -40,7 +40,7 @@
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://github.com/ObedTech515/HUNTER-XMD1/fork' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-fork repo-FF8700?style=for-the-badge&logo=fork&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://github.com/ObedTech12/Hunter-Xmd/fork' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-fork repo-FF8700?style=for-the-badge&logo=fork&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -66,7 +66,7 @@
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/ObedTech515/HUNTER-XMD1'' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/ObedTech12/Hunter-Xmd'' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
