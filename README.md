@@ -152,45 +152,8 @@ That's all bot connected
 <a><img
 
 
-<details>
-  
-<b><strong><summary align="center" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
- 
-
-<h3 align="center">DOWNLOAD ZIP FILE </h3>
-<h6 align-"center">
-*❄️ Deploy bmb xmd On bot-hosting For Free !*
-
-`Specs :`
-- v2 CPU
-- 16GB RAM
-
-> `Steps to deploy`
-
-`Step 1`
-1. Go to bot-hosting.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to the https://bot-hosting.net/?aff=1338673948329508876
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
-
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> CREDITS HUNTER-XMD🎐
-
-*by Obed tech*</h6>
 
 </details>
-
 --------------
 
 
