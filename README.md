@@ -148,7 +148,7 @@ That's all bot connected
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://www.mediafire.com/file/at7yp0spnfs5p35/HUNTER-XMD-main.ObedTech515/file' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://www.mediafire.com/file/at7yp0spnfs5p35/HUNTER-XMD-main.ObedTech515/file' target="_blank"><img alt='Netlify' src='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
 
 <details>
   
