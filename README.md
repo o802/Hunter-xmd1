@@ -153,10 +153,6 @@ That's all bot connected
 
 
 
-
-## **DEPLOY ON BOT HOSTING**
-
-
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
