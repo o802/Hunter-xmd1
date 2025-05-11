@@ -115,7 +115,7 @@ It will show
 
 That's all bot connected
 
-`MR FRANK OFC`</h6>
+`MR OBED OFC`</h6>
 </details>
 
 --------------
@@ -144,11 +144,13 @@ That's all bot connected
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
 --------
 
-<h4 align="center">6. ZIP FILE</h4>
+## **FILE ZIP**</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
-<p align="center">
-<a href='https://www.mediafire.com/file/at7yp0spnfs5p35/HUNTER-XMD-main.ObedTech515/file' target="_blank"><img alt='Netlify' src='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+<p align="">
+<a href='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img
+
 
 <details>
   
