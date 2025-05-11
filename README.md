@@ -151,6 +151,13 @@ That's all bot connected
 <a href='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-download zip-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
 
+## **DEPLOY ON BOT HOSTING**
+
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://bot-hosting.net/?aff=1338673948329508876' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-bot hosting-CC00FF?style=for-the-badge&logo=bothosting&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img
 
 
 </details>
