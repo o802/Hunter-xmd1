@@ -148,7 +148,7 @@ That's all bot connected
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-download zip-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
 
 
