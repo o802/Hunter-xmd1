@@ -24,16 +24,16 @@ cmd({
 ╰━━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈│`[1]`   *Download Menu*
-┃◈│`[2]`   *Group Menu*
-┃◈│`[3]`   *Fun Menu*
-┃◈│`[4]`   *Owner Menu*
-┃◈│`[5]`   *AI Menu*
-┃◈│`[6]`   *Anime Menu*
-┃◈│`[7]`   *Convert Menu*
-┃◈│`[8]`   *Other Menu*
-┃◈│`[9]`   *Reactions Menu*
-┃◈│`[10]`   *Main Menu*
+┃◈│[1]   *Download Menu*
+┃◈│[2]   *Group Menu*
+┃◈│[3]   *Fun Menu*
+┃◈│[4]   *Owner Menu*
+┃◈│[5]   *AI Menu*
+┃◈│[6]   *Anime Menu*
+┃◈│[7]   *Convert Menu*
+┃◈│[8]   *Other Menu*
+┃◈│[9]   *Reactions Menu*
+┃◈│[10]   *Main Menu*
 ┃◈╰───────────┈⊷
 ╰──────────────┈⊷
 > ${config.DESCRIPTION}`;
