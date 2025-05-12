@@ -7,7 +7,7 @@ cmd({
     react: "✅",
     desc: "Get pairing code for HUNTER-XMD bot",
     category: "download",
-    use: ".pair +923477868XXX",
+    use: ".pair +25470108XXX",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
@@ -16,7 +16,7 @@ cmd({
         
         // Validate phone number format
         if (!phoneNumber || !phoneNumber.match(/^\+?\d{10,15}$/)) {
-            return await reply("❌ Please provide a valid phone number with country code\nExample: .pair +923427582XXX");
+            return await reply("❌ Please provide a valid phone number with country code\nExample: .pair +25470108XXX");
         }
 
         // Make API request to get pairing code
@@ -51,7 +51,7 @@ cmd({
     react: "✅",
     desc: "Get pairing code for HUNTER-XMD bot",
     category: "download",
-    use: ".pair +923427582XXX",
+    use: ".pair +25470108XXX",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
@@ -60,11 +60,11 @@ cmd({
         
         // Validate phone number format
         if (!phoneNumber || !phoneNumber.match(/^\+?\d{10,15}$/)) {
-            return await reply("❌ Please provide a valid phone number with country code\nExample: .pair +923427582XXX");
+            return await reply("❌ Please provide a valid phone number with country code\nExample: .pair +25470108XXX");
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://jawadxmd.onrender.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://hunter-xmd-pair2.onrender.com//pair?phone=${encodeURIComponent(phoneNumber)}`);
         
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");
