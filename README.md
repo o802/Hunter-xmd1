@@ -27,11 +27,11 @@
   <img alt='ObedTech003 ACCOUNT' src='https://img.shields.io/badge/follow%20%20account-orange?style=for-the-badge&logo=account&logoColor=black'/>
 </a>
 
-### <h4 align="">2️⃣. BMB WEBSITE</h4>
+### <h4 align="">2️⃣. HUNTER-XMD WEBSITE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 </a>
-<a href='https://bmb-website-seven.vercel.app/' target="_blank">
+<a href='https://hunter-xmd-pair2.onrender.com/' target="_blank">
   <img alt='WEBSITE' src='https://img.shields.io/badge/click%20BMB%20 WEBSITE-darkpink?style=for-the-badge&logo=website&logoColor=black'/>
 </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
