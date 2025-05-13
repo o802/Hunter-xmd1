@@ -23,6 +23,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃•  Version : *4.0.0*
 ┃◈┃•  Runtime : *${runtime(process.uptime())}*
 ┃◈╰─────────────────┈⊷
+*Have fun with these reliable commands!*⌛
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
 
 ╭━━〔 📥 *DOWNLOAD MENU* 〕━━┈⊷
