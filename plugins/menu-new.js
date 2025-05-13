@@ -21,7 +21,7 @@ cmd({
 ┃★│  Prefix : *[${config.PREFIX}]*
 ┃★│  Version : *5.0.0 ObedX*
 ┃★╰──────────────
-*Have fun with these reliable commands!*
+*Have fun with these reliable commands!*⌛
 ╰━━━━━━━━━━━━━━━┈⊷
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
