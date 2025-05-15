@@ -1,4 +1,4 @@
-// code by ⿻ ⌜ 𝐊𝐇𝐀𝐍 ⌟⿻⃮͛🇵🇰𖤐
+// code by ⿻ ⌜ HUNTER-XMD ⌟⿻⃮͛🇵🇰𖤐
 
 const axios = require("axios");
 const config = require('../config');
@@ -24,21 +24,21 @@ async (conn, mek, m, {
   }
 
   try {
-    // created by jawad tech 
+    // created by obed tech 
     const response = await axios.get(`https://api.davidcyriltech.my.id/ssweb?url=${q}`);
     const screenshotUrl = response.data.screenshotUrl;
 
     // give credit and use
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By JawadTechX*",
+      caption: "*WEB SS DOWNLOADER*\n\n> *© Powered By ObedTechX*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363354023106228@newsletter',
-          newsletterName: "JawadTechX",
+          newsletterJid: '120363416335506023@newsletter',
+          newsletterName: "ObedTechX",
           serverMessageId: 143,
         },
       },
@@ -51,4 +51,4 @@ async (conn, mek, m, {
   }
 });
 
-// ⿻ ⌜ 𝐊𝐇𝐀𝐍 ⌟⿻⃮͛🇵🇰𖤐
+// ⿻ ⌜ HUNTER-XMD ⌟⿻⃮͛🇵🇰𖤐
