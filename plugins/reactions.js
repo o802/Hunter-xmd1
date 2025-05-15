@@ -297,7 +297,7 @@ cmd(
                 ? `${sender} is smug at @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is feeling smug!`
-                : `> © Powered By JawadTechX 🖤`;
+                : `> © Powered By ObedTechX 🖤`;
 
             const apiUrl = "https://api.waifu.pics/sfw/smug";
             let res = await axios.get(apiUrl);
@@ -699,7 +699,7 @@ cmd(
                 ? `${sender} is happy with @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is happy with everyone!`
-                : `> © Powered By JawadTechX 🖤`;
+                : `> © Powered By ObedTechX 🖤`;
 
             const apiUrl = "https://api.waifu.pics/sfw/happy";
             let res = await axios.get(apiUrl);
@@ -990,7 +990,7 @@ cmd(
             } else if (isGroup) {
                 message = `${sender} slapped everyone`;
             } else {
-                message = `> © Powered By JawadTechX 🖤`;
+                message = `> © Powered By ObedTechX 🖤`;
             }
 
             const apiUrl = "https://api.waifu.pics/sfw/slap";
