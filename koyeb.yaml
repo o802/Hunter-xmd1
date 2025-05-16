@@ -1,6 +1,6 @@
-name: khan-md
+name: Hunter-xmd
 services:
-  - name: khan-md-service
+  - name: Hunter-xmd-service
     type: web
     ports:
       - 5000
