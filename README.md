@@ -170,9 +170,19 @@ That's all bot connected
 <p align="center">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
 
+### Additional Hosting Panels
 
-*************
+<a href="https://account.solarhosting.cc/" target="_blank">
+  <img src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Solar Hosting"/>
+</a>
 
+<a href="https://my.blare.host/" target="_blank">
+  <img src="https://img.shields.io/badge/Blare_Host-4A90E2?style=for-the-badge&logo=server&logoColor=white" alt="Blare Host"/>
+</a>
+
+<a href="https://dash.witchly.host/" target="_blank">
+  <img src="https://img.shields.io/badge/Witchly_Host-9B59B6?style=for-the-badge&logo=server&logoColor=white" alt="Witchly Host"/>
+</a>
 <a href="https://optiklink.com/" target="_blank">
   <img src="https://img.shields.io/badge/Optik_Link-2ECC71?style=for-the-badge&logo=server&logoColor=white" alt="Optik Link"/>
 </a>
