@@ -65,15 +65,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=DEPLOY.XMD-ON" alt="Typing SVG" /></a>
 
-<h4 align="center">2. heroku</h4>
+<h4 align="center">1️⃣ First. Deploying option</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
 <a href='https://dashboard.heroku.com/new?template=https://github.com/ObedTech003/Hunter-xmd1'' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
 
-----------
-
-<h4 align="center">1. TalkDrove Free</h4>
+----------------
 <p style="text-align: center; font-size: 1.2em;">
 
 
@@ -122,25 +120,19 @@ That's all bot connected
 </details>
 
 --------------
-
-
-<h4 align="center">3. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
 <p align="center">
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=mrfrankofcc/B.M.B-XMD[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20SUBZERO-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
------
-<h4 align="center">4. Railway</h4>
+----------
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
 
------
-
-<h4 align="center">5. Render</h4>
+--------
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
