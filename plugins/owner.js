@@ -35,7 +35,7 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
 ┃◈┃• *Number* ${ownerNumber}
-┃◈┃• *Version*: 2.0.0 Beta
+┃◈┃• *Version*: 5.0.0 ObedX
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Obed TechX`, // Display the owner's details
