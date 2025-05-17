@@ -33,15 +33,6 @@
   <img alt='ObedTech003 ACCOUNT' src='https://img.shields.io/badge/follow%20%20account-orange?style=for-the-badge&logo=account&logoColor=black'/>
 </a>
 
-### <h4 align="">2️⃣. HUNTER-XMD WEBSITE</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-</a>
-<a href='https://hunter-xmd-pair2.onrender.com/' target="_blank">
-  <img alt='WEBSITE' src='https://img.shields.io/badge/click%20BMB%20 WEBSITE-darkpink?style=for-the-badge&logo=website&logoColor=black'/>
-</a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ### <h4 align="">3️⃣. FORK REPO SITE</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
@@ -62,7 +53,14 @@
 <p align="">
 <a href='https://hunter-xmd-pair2.onrender.com/qr' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-scan qr code -CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
-
+### <h4 align="">2️⃣. HUNTER-XMD WEBSITE</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+</a>
+<a href='https://hunter-xmd-pair2.onrender.com/' target="_blank">
+  <img alt='WEBSITE' src='https://img.shields.io/badge/click%20HUNTER%20 WEBSITE-darkpink?style=for-the-badge&logo=website&logoColor=black'/>
+</a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=DEPLOY.XMD-ON" alt="Typing SVG" /></a>
 
