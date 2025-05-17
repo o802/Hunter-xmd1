@@ -50,15 +50,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### <h4 align="">4️⃣. PAIR CODE 1</h4>
+### <h4 align="">4️⃣. GET SESSION 1</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://hunter-xmd-pair2.onrender.com' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://hunter-xmd-pair2.onrender.com/pair' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-pair code site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
 
-     
-### <h4 align="">5️⃣. QR CODE 2</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
