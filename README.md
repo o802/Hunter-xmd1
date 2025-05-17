@@ -141,7 +141,6 @@ That's all bot connected
 
 
 </details>
---------------
 
 
 <h4 align="center">7. Replit</h4>
@@ -150,14 +149,15 @@ That's all bot connected
 <p align="center">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
 
-## **FILE ZIP**</h4>
+# **FILE ZIP**</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
 <a href='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-download zip-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
 
-### Additional Hosting Panels
+
+2️⃣ ### *Additional Hosting Panels*
 
 <a href="https://account.solarhosting.cc/" target="_blank">
   <img src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Solar Hosting"/>
