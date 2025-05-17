@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: NEXUS-XMD
+    name: HUNTER-XMD
     env: node
     region: singapore
     buildCommand: "yarn install"
