@@ -137,22 +137,7 @@ That's all bot connected
   
 <p align="center">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
---------
 
-## **FILE ZIP**</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-download zip-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img
-
-
-
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://bot-hosting.net/?aff=1338673948329508876' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-bot hosting-CC00FF?style=for-the-badge&logo=bothosting&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img
 
 
 </details>
@@ -164,6 +149,13 @@ That's all bot connected
 
 <p align="center">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+
+## **FILE ZIP**</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://github.com/ObedTech003/Hunter-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-download zip-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img
 
 ### Additional Hosting Panels
 
