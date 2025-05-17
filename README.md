@@ -33,7 +33,7 @@
   <img alt='ObedTech003 ACCOUNT' src='https://img.shields.io/badge/follow%20%20account-orange?style=for-the-badge&logo=account&logoColor=black'/>
 </a>
 
-### <h4 align="">3️⃣. FORK REPO SITE</h4>
+### <h4 align="">2️⃣. FORK REPO SITE</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
@@ -41,7 +41,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### <h4 align="">4️⃣. GET SESSION 1</h4>
+### <h4 align="">2️⃣. GET SESSION 1</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
@@ -53,7 +53,7 @@
 <p align="">
 <a href='https://hunter-xmd-pair2.onrender.com/qr' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-scan qr code -CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img
-### <h4 align="">2️⃣. HUNTER-XMD WEBSITE</h4>
+### <h4 align="">4️⃣. HUNTER-XMD WEBSITE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 </a>
