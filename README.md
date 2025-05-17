@@ -159,7 +159,7 @@ That's all bot connected
 
 
 
-2️⃣ ## **Additional Hosting Panels**
+## 2️⃣**Additional Hosting Panels**
 
 <a href="https://account.solarhosting.cc/" target="_blank">
   <img src="https://img.shields.io/badge/Solar_Hosting-FF6B6B?style=for-the-badge&logo=server&logoColor=white" alt="Solar Hosting"/>
