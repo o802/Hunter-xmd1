@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CASEYRHODES%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
+
+> **`Updated` CASEYRHODES XMD with Latest Features**
+
+
 <p align="center">
   <a href="https://github.com/ObedTech003/Hunter-xmd1?tab=followers">
     <img src="https://img.shields.io/github/followers/ObedTech003?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
