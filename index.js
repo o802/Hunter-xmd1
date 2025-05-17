@@ -116,7 +116,7 @@ const port = process.env.PORT || 9090;
 
 ╭─〔 *🤖 HUNTER-XMD BOT* 〕  
 ├─▸ *Simplicity. Speed. Power. BY OBED.  
-|    OZA😂!*  
+|    Ozah!* ✴️ 
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
 *❤️ Thank you for Choosing HUNTER-XMD!*
