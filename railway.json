@@ -1,7 +1,7 @@
 {
-  "name": "NEXUS-XMD",
-  "description": "For deploying NEXUS-XMD.",
-  "repository": "https://github.com/Pkdriller/NEXUS-XMD",
+  "name": "HUNTER-XMD",
+  "description": "For deploying HUNTER-XMD.",
+  "repository": "https://github.com/ObedTech003/Hunter-xmd1",
   "build": {
     "commands": {
       "install": "yarn install",
